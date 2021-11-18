@@ -991,6 +991,7 @@ p {
   height: 100%;
   display: block;
   text-decoration: none;
+  color: inherit;
 }
 
 .gallery__link:visited {
